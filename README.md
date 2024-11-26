@@ -1,5 +1,5 @@
 # We Trust Dotnet Format
 
 ```sh
-wetrustdotnetformat <folder1> <folder2>
+WeTrustDotnetFormat <folder1> <folder2>
 ```
